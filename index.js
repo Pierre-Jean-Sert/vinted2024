@@ -51,7 +51,7 @@ app.all("*", (req, res) => {
 
 //* ECOUTE DU SERVEUR
 app.listen(process.env.PORT, () => {
-  console.log("Server started 😶‍🌫️");
+  console.log("Server started 🩳");
 });
 
 //* <--- FIN SERVEUR --->
